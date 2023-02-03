@@ -1,3 +1,7 @@
+# Text Processing with Python
+
+[Text Processing is not fun](nlpcsv.md).
+
 # Overview of NLP
 
 Here is my [overview of Natural Language Processing](nlpovrw.md).
