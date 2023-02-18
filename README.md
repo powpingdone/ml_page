@@ -1,3 +1,7 @@
+# Linear Models
+
+Here are my failures of [classification](classification.pdf) and [regression](regression.pdf).
+
 # Text Processing with Python
 
 [Text Processing is not fun](nlpcsv.md).
