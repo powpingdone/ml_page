@@ -1,3 +1,7 @@
+# WordNet
+
+Some playing around with [wordnet](wordnet.pdf).
+
 # Linear Models
 
 Here are my failures of [classification](classification.pdf) and [regression](regression.pdf).
