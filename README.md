@@ -1,3 +1,11 @@
+# N-Grams
+
+Creating a [language model with n-grams.](nlpngrams.md)
+
+# More Models
+
+More attempts with [C++ models.](mlmath2.md)
+
 # WordNet
 
 Some playing around with [wordnet](wordnet.pdf).
