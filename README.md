@@ -1,3 +1,7 @@
+# NLP Spider
+
+A [script to do spider tasks](nlpspider.zip).
+
 # NLP Parsers
 
 Trying out [NLP parsing tools](nlpparsers.pdf).
