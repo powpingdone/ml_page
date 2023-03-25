@@ -1,3 +1,7 @@
+# PCA and LDA
+
+Testing [PCA and LDA](mlpcalda.pdf).
+
 # NLP Spider
 
 A [script to do spider tasks](nlpspider.zip).
