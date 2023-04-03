@@ -1,3 +1,7 @@
+# Sentiment classification
+
+Messing around with [Classification](nlpclfiatn.pdf) in order to try to find happyness. It didn't work.
+
 # PCA and LDA
 
 Testing [PCA and LDA](mlpcalda.pdf).
